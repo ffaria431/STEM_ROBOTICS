@@ -1,7 +1,10 @@
 # STEM_ROBOTICS
 Step 1: Run datacollection.py (Webcam is used to read the gesture in real-time)
+
 Step 2: Run dataset.py (9 Hand Gesture are used as dataset)
+
 Step 3: Run traingest.py (A neural netwok is trained and validated using 9 different hand gesture)
+
 Step 4: Run predict.py (9 different Hand Gesture is predicted in real time)
 
 
